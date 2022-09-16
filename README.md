@@ -51,12 +51,12 @@ Others
 
 ## Samples of query results
 - 1) How long the process take if the seller is in SP (Sao Paulo)? (from purchase to delivered)
-    ![alt text](https://github.com/jassjitsupa/GIF_jajitsupa/blob/main/BrazilEC1 "try")
+    ![alt text](https://github.com/jassjitsupa/GIF_jajitsupa/blob/main/BrazilEC1.png)
 - 2) Monthly sales changes in Rio de Janeiro
-    ![alt text](https://github.com/jassjitsupa/GIF_jajitsupa/blob/main/BrazilEC2?raw=true)
+    ![alt text](https://github.com/jassjitsupa/GIF_jajitsupa/blob/main/BrazilEC2.png)
 - 3) Three most purchased products per month
-    ![alt text](https://github.com/jassjitsupa/GIF_jajitsupa/blob/main/BrazilEC3?raw=true)
+    ![alt text](https://github.com/jassjitsupa/GIF_jajitsupa/blob/main/BrazilEC3.png)
 - 4) How many days most customer have to wait for their order to be delivered after it is approved?
-    ![alt text](https://github.com/jassjitsupa/GIF_jajitsupa/blob/main/BrazilEC4?raw=true)
+    ![alt text](https://github.com/jassjitsupa/GIF_jajitsupa/blob/main/BrazilEC4.png)
 - 5) How many hours most customers waited for their purchase to be approved (how many hours)? (seller response time)
-    ![alt text](https://github.com/jassjitsupa/GIF_jajitsupa/blob/main/BrazilEC5?raw=true)
+    ![alt text](https://github.com/jassjitsupa/GIF_jajitsupa/blob/main/BrazilEC5.png)
