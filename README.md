@@ -51,7 +51,7 @@ Others
 
 ## Samples of query results
 - 1) How long the process take if the seller is in SP (Sao Paulo)? (from purchase to delivered)
-    ![alt text](https://github.com/jassjitsupa/GIF_jajitsupa/blob/main/BrazilEC1?raw=true)
+    ![alt text](https://github.com/jassjitsupa/GIF_jajitsupa/blob/main/BrazilEC1 "try")
 - 2) Monthly sales changes in Rio de Janeiro
     ![alt text](https://github.com/jassjitsupa/GIF_jajitsupa/blob/main/BrazilEC2?raw=true)
 - 3) Three most purchased products per month
