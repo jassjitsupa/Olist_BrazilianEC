@@ -17,32 +17,32 @@ This purpose of this project is to practice using different SQL clauses and func
 ## Relevant KPIs
 
 Time/Delivery Performance
-  - 1. Average time from purchase to delivered (group by seller state)
-  - 2. How long the process take if the seller is in SP (Sao Paulo)? (from purchase to delivered)
-  - 3. Waiting time for SP to SP vs SP to other states
-  - 4. How many hours most customers waited for their purchase to be approved (how many hours)? (seller response time)
-  - 5. Count number of orders that are delivered after expected delivery date
-  - 6. How many days most customer have to wait for their order to be delivered after it is approved?
+  - Average time from purchase to delivered (group by seller state)
+  - How long the process take if the seller is in SP (Sao Paulo)? (from purchase to delivered)
+  - Waiting time for SP to SP vs SP to other states
+  - How many hours most customers waited for their purchase to be approved (how many hours)? (seller response time)
+  - Count number of orders that are delivered after expected delivery date
+  - How many days most customer have to wait for their order to be delivered after it is approved?
 
 Product/Sale Performance
-  - 7. Product ranking per month
-  - 8. Three most purchased products per month
-  - 9. Monthly sales changes in Rio de Janeiro
-  - 10. Percentile ranking for sellers in Rio de Janeiro
+  - Product ranking per month
+  - Three most purchased products per month
+  - Monthly sales changes in Rio de Janeiro
+  - Percentile ranking for sellers in Rio de Janeiro
 
 Purchase Behavior
-  - 11. Most popular day of purchase
-  - 12. Most popular purchase time of day
-  - 13. Payment methods that are used the most
+  - Most popular day of purchase
+  - Most popular purchase time of day
+  - Payment methods that are used the most
 
 Customer Churn
-  - 14. Number of customer who reordered the same category in a different order
-  - 15. How many more items of the same category was ordered by each customer
+  - Number of customer who reordered the same category in a different order
+  - How many more items of the same category was ordered by each customer
 
 Others
-  - 16. Sellers/Customers are from which city the most
-  - 17. Select all products related to 'game'
-  - 18. Highest freight costs ever costed for each product category
+  - Sellers/Customers are from which city the most
+  - Select all products related to 'game'
+  - Highest freight costs ever costed for each product category
 
 ## Key learning points & Used functions
 - Advanced subqueries, window functions,
